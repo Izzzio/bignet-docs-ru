@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'IZZZIO BigNet'
-copyright = '2018 Izio Ltd (OOO "Изио")'
+copyright = '2018 Izio Ltd'
 author = 'Andrey Nedobylskiy'
 
 # The version info for the project you're documenting, acts as replacement for
